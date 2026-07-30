@@ -1,8 +1,22 @@
 aid: manifest-os
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/manifest-os.png
 name: Manifest OS
-description: 'Manifest OS is a company surfaced as a portfolio company of kleiner-perkins and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Manifest OS is an AI-native law firm building an operating system for legal work
+  that replaces the traditional billable hour with transparent fixed-fee pricing. It is profiled
+  by Kleiner Perkins as an early-stage (2026) Enterprise AI company that applies AI to deliver
+  predictable legal services. As of this enrichment pass Manifest OS does not publish a public
+  developer API, SDK, MCP server, or developer portal, so it carries no API artifacts.'
 url: https://raw.githubusercontent.com/api-evangelist/manifest-os/refs/heads/main/apis.yml
 x-type: company
 x-source: kleiner-perkins-portfolio
@@ -10,13 +24,24 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Ai
+- Legal
+- Legal Tech
+- Law Firm
+- Fixed Fee Legal
+- Enterprise AI
+- Kleiner Perkins Portfolio
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
