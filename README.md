@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Manifest OS is a company surfaced as a portfolio company of kleiner-perkins and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Manifest OS is an AI-native law firm building an operating system for legal work that replaces the traditional billable hour with transparent fixed-fee pricing. It is profiled by Kleiner Perkins as an early-stage (2026) Enterprise AI company that applies AI to deliver predictable legal services. As of this enrichment pass Manifest OS does not publish a public developer API, SDK, MCP server, or developer portal, so it carries no API artifacts.
 
-Source: portfolio company of [kleiner-perkins](https://github.com/api-evangelist/kleiner-perkins)
+**Areas:** Company · Artificial Intelligence · Legal · Legal Tech · Law Firms · Fixed Fee Legal · Enterprise AI · Kleiner Perkins Portfolio
+
+## Manifest OS on APIs.io
+
+Everything profiled for Manifest OS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/manifest-os/](https://apis.io/providers/manifest-os/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Manifest OS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/manifest-os/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
